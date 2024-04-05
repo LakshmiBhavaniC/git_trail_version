@@ -1,1 +1,2 @@
-# git_trail_version
+Hi
+This is my first example project
